@@ -1,1 +1,1 @@
-second line of the file
+this is my first git repo
